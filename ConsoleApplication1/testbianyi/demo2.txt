@@ -1,0 +1,8 @@
+using System;  
+using System.Windows.Forms;  
+  
+static class ClassApp{  
+    static void Main() {  
+        Application.Run(new Form());  
+    }  
+}  
