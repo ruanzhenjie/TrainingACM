@@ -4,3 +4,9 @@ d:\用户目录\我的文档\visual studio 2015\Projects\ConsoleApplication1\Con
 d:\用户目录\我的文档\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 d:\用户目录\我的文档\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 D:\用户目录\我的文档\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\CSharpIOTest.csprojResolveAssemblyReference.cache
+D:\forgit\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\forgit\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\forgit\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\forgit\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\forgit\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\forgit\ConsoleApplication1\ConsoleApplication1\obj\Debug\CSharpIOTest.csprojResolveAssemblyReference.cache

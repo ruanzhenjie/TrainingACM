@@ -15,6 +15,21 @@ namespace WindowsFormsApplication1
         private String[] inputText;
         private String[] outputText;
         private String answer;
+        private String creater;
+        private String password;
+
+        public Topic() {
+            title = null;
+            description = null;
+            inputExample = null;
+            outputExample = null;
+            inputText = null;
+            outputText = null;
+            answer = null;
+            creater = null;
+            password = null;
+        }
+
 
 
         public string Title
@@ -106,6 +121,53 @@ namespace WindowsFormsApplication1
             {
                 answer = value;
             }
+        }
+
+        public string Creater
+        {
+            get
+            {
+                return creater;
+            }
+
+            set
+            {
+                creater = value;
+            }
+        }
+
+        public string Password
+        {
+            get
+            {
+                return password;
+            }
+
+            set
+            {
+                password = value;
+            }
+        }
+
+        public string ToString()
+        {
+            String res = "";
+            res += "\n creater: " + creater;
+            res += "\n password: " + password;
+            res += "\n title: " + title;
+            res += "\n description: " + description;
+            res += "\n inputExample: " + inputExample;
+            res += "\n outputExample: " + outputExample;
+            foreach (String txt in inputText)
+            {
+                res += "\n inputText: " + txt;
+            }
+            foreach (String txt in outputText)
+            {
+                res += "\n outputText: " + txt;
+            }
+            res += "\n";
+            return res;
         }
     }
 }

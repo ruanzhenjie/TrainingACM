@@ -1,0 +1,14 @@
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\OutportXml.exe.config
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\OutportXml.exe
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\OutportXml.pdb
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\WindowsFormsApplication1.exe
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\WindowsFormsApplication1.pdb
+D:\forgit\ConsoleApplication1\OutportXml\obj\Debug\OutportXml.csprojResolveAssemblyReference.cache
+D:\forgit\ConsoleApplication1\OutportXml\obj\Debug\OutportXml.exe
+D:\forgit\ConsoleApplication1\OutportXml\obj\Debug\OutportXml.pdb
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\ClassLibrary.dll
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\ClassLibraryTests.dll
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\ClassLibraryTests.pdb
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\ClassLibrary.pdb
+D:\forgit\ConsoleApplication1\OutportXml\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

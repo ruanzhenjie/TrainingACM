@@ -21,3 +21,14 @@ C:\Users\Administrator\Desktop\WindowsForms\obj\Debug\WindowsFormsApplication1.f
 C:\Users\Administrator\Desktop\WindowsForms\obj\Debug\WindowsFormsApplication1.frmPracticePlat.resources
 C:\Users\Administrator\Desktop\WindowsForms\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Administrator\Desktop\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+D:\forgit\ConsoleApplication1\WindowsForms\bin\Debug\WindowsFormsApplication1.exe.config
+D:\forgit\ConsoleApplication1\WindowsForms\obj\Debug\WindowsFormsApplication1.exe
+D:\forgit\ConsoleApplication1\WindowsForms\obj\Debug\WindowsFormsApplication1.pdb
+D:\forgit\ConsoleApplication1\WindowsForms\bin\Debug\WindowsFormsApplication1.exe
+D:\forgit\ConsoleApplication1\WindowsForms\bin\Debug\WindowsFormsApplication1.pdb
+D:\forgit\ConsoleApplication1\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+D:\forgit\ConsoleApplication1\WindowsForms\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\forgit\ConsoleApplication1\WindowsForms\obj\Debug\WindowsFormsApplication1.frmSubjectEditor.resources
+D:\forgit\ConsoleApplication1\WindowsForms\obj\Debug\WindowsFormsApplication1.frmPracticePlat.resources
+D:\forgit\ConsoleApplication1\WindowsForms\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\forgit\ConsoleApplication1\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
